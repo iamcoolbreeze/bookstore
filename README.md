@@ -1,7 +1,7 @@
 ### CoolBreeze网上书店  
   * 注意：启动项目之前请在EmailConfigure.Properties文件中设置好发送激活邮件的邮箱，并且建立好数据库。。
 
-  * 开发环境：开发语言使用javaEE，数据库使用mysql，架构使用了MVC模式，IDE使用myeclipse
+  * 开发环境：开发语言使用javaEE，数据库使用mysql，架构使用了MVC，IDE使用myeclipse
 
   * 项目结构功能简述：
 
